@@ -1,8 +1,9 @@
-#Assignment 1: Introduction to Web Technologies
+Assignment 1: Introduction to Web Technologies
 BMI Calculator using Node.js and Express
 Student Information
 
 Name: Aset Syrgabaev
+
 Group: SE 2438
 Course: Web Technologies 2 (Back End)
 Instructor: Usserbayeva Gulfiya
